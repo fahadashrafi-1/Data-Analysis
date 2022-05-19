@@ -17,5 +17,5 @@ This is a simple *Urdu Data Analysis* where some basic usage of following functi
  4. Convert the Data type from object to string to use string specific functionality.
  4. Use of Value Counts for finding which type of news is this
  5. Do some plots with urdu right to left data 
- 6. Showing the role of Python and pandas for urdu language (right to left).
+ 6. Showing the role of Python and pandas for urdu language (left to right).
 
