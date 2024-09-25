@@ -1,0 +1,21 @@
+digraph "Mobile Application Model" {
+	graph [bgcolor=oldlace fontsize=12]
+	2 [label="Mobile Frontend" color=green shape=box]
+	3 [label="Mobile IOS Frontend" color=green shape=box]
+	4 [label="Web Frontend" color=green shape=box]
+	5 [label="Python Django Beckend" color=red shape=cylinder]
+	6 [label="ERP System" color=blue shape=box]
+	A [label="Sales Purchase" color=blue shape=invhouse]
+	B [label=CRM color=blue shape=invhouse]
+	8 [label="Integrations if Required" color=red shape=box]
+	1 [label="Integrations (payment system, Ticketing system )" color=blue shape=egg]
+	2 -> 5
+	3 -> 5
+	4 -> 5
+	5 -> 6
+	5 -> 8
+	6 -> A
+	6 -> B
+	B -> 1
+	A -> 1
+}

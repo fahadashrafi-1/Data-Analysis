@@ -12,6 +12,14 @@ For these types of works, brings the need of an automated tools for flowcharting
 
 ![Process Flow ](ProcessFlow.png "Process Flow")
 
+![Process Flow ](Application.png "Application Setup")
+
+![Process Flow ](ApplicationSetup.png "With Diagrams Logos")
+
+
+
+
+
 
 
 
