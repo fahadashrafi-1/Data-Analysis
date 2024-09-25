@@ -6,11 +6,11 @@ sometimes your are working on a project and you have to take approval of the wor
 
 For these types of works, brings the need of an automated tools for flowcharting.
 
-![Balance Score Card](BalanceScoreCard-KPI.svg "Balance Scorecard")
+![Balance Score Card](BalanceScoreCard-KPI.png "Balance Scorecard")
 
-![Folder Hirarchy](FolderHirarchy.svg "Folder Hirarchy")
+![Folder Hirarchy](FolderHirarchy.png "Folder Hirarchy")
 
-![Process Flow ](ProcessFlow.svg "Process Flow")
+![Process Flow ](ProcessFlow.png "Process Flow")
 
 
 
