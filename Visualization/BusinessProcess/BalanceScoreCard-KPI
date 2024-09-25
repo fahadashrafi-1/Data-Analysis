@@ -14,8 +14,7 @@ digraph {
  Table" fillcolor="#aff0cd" shape=cylinder style=filled]
 	e [label="Projects 
  Table" fillcolor="#aff0cd" shape=cylinder style=filled]
-	d [label="Power BI 
- Dashboard " fillcolor="#ede3bb" shape=note style=filled]
+	d [label="Power BI " fillcolor="#ede3bb" shape=note style=filled]
 	A -> 1
 	A -> 2
 	A -> 3
