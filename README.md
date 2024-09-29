@@ -1,8 +1,9 @@
 
 # Data Analysis
 
-Some data Analysis using Python Pandas using Altair for data Visualization
+Here are some of tips and trick for data analysis helpful for analysis and reporting.
 
+All data Analysis using Python Pandas using Altair for data Visualization
 
 1. For Property Data Analysis
 2. Urdu ('Right to Left Language') Analysis
