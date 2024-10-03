@@ -1,5 +1,6 @@
 
-# Data Analysis
+# Data Analysis 
+### (Some Tips & Tricks)
 
 Here are some of tips and trick for data analysis helpful for analysis and reporting.
 
