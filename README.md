@@ -9,6 +9,4 @@ All data Analysis using Python Pandas
 1. For Property Data Analysis
 2. Urdu ('Right to Left Language') Analysis
 3. Using Altair for Properly Showing Plots with urdu (RTL).
-4. You will find the reports (excel/Word/PDF's) at this this repo.
-
-
+4. You will find the reports (excel/Word/PDF's) at this this repo.![Imange](/Reports(MS-Excel&Word)/Data/Matplotlib/ReportPic.png "MS Word Documnet")

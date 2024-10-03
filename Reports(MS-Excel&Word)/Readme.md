@@ -15,14 +15,19 @@ After conducting data analysis, its very important to share the findings with th
 There are multiple ways to achive this. Using Dasbaords, Report lab.
 Numerous tools, both free and paid, can support us in this process.
 
-![Imange](Data/Matplotlib/ReportPic.png "MS Word Dcoumnet")
+[Ms Word Reports](MsWordReport.ipynb)
+
+![Image](Data/Matplotlib/ReportPic.png "MS Word Document")
 
 
 #### Ms Excel Document
 
-![Imange](Data/Matplotlib/ExcelReport.png "MS Excel Dcoumnet")
+![Image](Data/Matplotlib/ExcelReport.PNG "MS Excel Document")
 
-Importance of communicate with end user is most important part of analtics and this need is highly served by MS Excel,
+[Excel Reports](MsExcelReport.ipynb)
+
+Importance of communication with end user is most important part of analytics Journey and the smart tool that stands out here is Excel Spreadsheet,
+
 Enjoy some tips for using python Generating Ms Excel !!!!
 
 
