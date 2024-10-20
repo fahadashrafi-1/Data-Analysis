@@ -1,4 +1,4 @@
-# SQL 
+# [SQL](/SQL/SQLTableContents.ipynb)
 ## Nothing moves without SQL.
 
 In the Journey of Data Analysis and Data Science Nothing moves without SQL.
@@ -19,4 +19,20 @@ You will find my SQL Alachmy code written to find out the specific column with s
 ![Imange](Output.PNG "Output of the code")
 
 
+# [PostgreSql](/SQL/EmployeesDemo.sql)
+At this folder you we saw some SQL written at postgresql you can use pgadmin to run this or any other tool.
 
+It cover the follwing in SQL
+- Create Tables
+- Populate Tables
+- Link Tables
+- Running Simple Select Query
+- Query NULL & Not NULL
+- Applying aggregate count() funtion.
+- Using IN 
+- SUB Querys
+- Inner Joins 
+- Left Joins
+
+Note : please use Control + / & Control + Shift + / to comment and uncomment the lines.
+![Imange](Pgadmin.png "Output on PG Admin")
