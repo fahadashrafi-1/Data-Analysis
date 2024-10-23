@@ -18,12 +18,13 @@ The Do's and Donts of Visiuals
 
 Python:-
 
-<img src="/BussinessProcess/BalanceScoreCard-KPI.png" alt="Business Prcess" width="200" Height="400"/>|
-<img src="/BussinessProcess/ProcessFlow.png" alt="Process Flows" width="200" Height="400"/>|
+<img src="BusinessProcess/BalanceScoreCard-KPI.png" alt="Business Prcess" width="200" Height="400"/>|
+<img src="BusinessProcess/ProcessFlow.png" alt="Process Flows" width="200" Height="400"/>|
+<img src="BusinessProcess/FolderHirarchy.png" alt="Process Flows" width="200" Height="400"/>|
 
 <BR>
 
 Power BI:-
 
-<img src="/PowerBI/Images/LandingPage.PNG" alt="Excel Report" width="100" Height="200"/>|
-<img src="/PowerBI/Images/HR.PNG" alt="Excel Report" width="200" Height="400"/>|
+<img src="PowerBI/Images/LandingPage.PNG" alt="Excel Report" width="100" Height="200"/>|
+<img src="PowerBI/Images/HR.PNG" alt="Excel Report" width="200" Height="400"/>|
