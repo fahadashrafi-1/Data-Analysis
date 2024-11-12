@@ -23,6 +23,7 @@ All data Analysis using Python Pandas
 6. For Visuals Related Power BI, Matplotlib and Business Process you will find [Here](/Visualization/)
 
 <img src="/Visualization/PowerBI/Data/HRReport.png" alt="HR Report" width="400"/> 
+<img src="/Visualization/Matplotlib/Images/Dashbaord.PNG" alt="HR Report" width="400"/> 
     
     
 
