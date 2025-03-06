@@ -2,9 +2,13 @@
 
 ## Working with data and Analytics there are several step you have to show.
 
-sometimes your are working on a project and you have to take approval of the workflow or you have pushed the rports to some common drive and you need to share the hirarchy to your team.
+- Working on a project requires to take approval of workflows
 
-For these types of works, brings the need of an automated tools for flowcharting.
+- In collobrative working environment showing the folder structure and hirarchy is very important.
+
+- Same helps when writing the documenatiton of any projects worked on.
+
+For all of above, there is the need of an automated tools for flowcharting in the same working environment.
 
 ![Balance Score Card](BalanceScoreCard-KPI.png "Balance Scorecard")
 
