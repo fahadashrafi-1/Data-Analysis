@@ -24,7 +24,10 @@ All data Analysis using Python Pandas
 
 <img src="/Visualization/PowerBI/Data/HRReport.png" alt="HR Report" width="400"/> 
 <img src="/Visualization/Matplotlib/Images/Dashbaord.PNG" alt="HR Report" width="400"/> 
-    
+
+7. Some Tkinter Usage Ideas.    
+
+<img src="/SomeTkinter/Images/FuntosoTK.png" alt="Funtoso Extract Transform Load" width="400"/>|
     
 
 
