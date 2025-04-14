@@ -12,8 +12,7 @@ All data Analysis using Python Pandas
 
 3. Word and Excel Advance Analytics Reports you will find [Here](/Reports(MS-Excel&Word)/).
 
-|<img src="/Reports(MS-Excel&Word)/Data/Matplotlib/ReportPic.png" alt="Word Document" width="400"/>|
-<img src="/Reports(MS-Excel&Word)/Data/Matplotlib/ExcelReport.PNG" alt="Excel Report" width="400"/>|
+<img src="/Reports(MS-Excel&Word)/Data/Matplotlib/Reports.gif" alt="Excel Report" width="400"/>
 
 4. SQL related items you will find [here](/SQL/).
  <img src="/SQL/Output.PNG" alt="Word Documnet" width="400"/>   
